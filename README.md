@@ -1,16 +1,29 @@
-## Hi there 👋
+# Abhijeet Singh Pawar 
+**Data Analyst | SQL • Python • Power BI • Business Analytics**
 
-<!--
-**aspabhi31/aspabhi31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build end-to-end data analytics solutions that turn raw data into clear business decisions.  
+Focused on **customer analytics, retail insights, and credit risk modeling**.
 
-Here are some ideas to get you started:
+MASc in Computer Engineering (Canada)  
+Experience with KPI dashboards, churn & CLV analysis, and risk analytics  
+🇨🇦 Open to Data Analyst / BI Analyst roles in Canada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Credit Card Credit Risk Modeling
+🔗 https://github.com/aspabhi31/credit-risk-modeling
+
+### Retail Business Analytics
+🔗 https://github.com/aspabhi31/retail-business-analytics
+
+### US Debt Tracker Analysis
+🔗 https://github.com/aspabhi31/us-debt-analysis
+
+## Tech Stack
+- SQL (MySQL, PostgreSQL, CTEs, Window Functions)
+- Power BI, Tableau, Excel
+- Python (Pandas, NumPy, Matplotlib)
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/abhijeet-singh-pawar-482576149/
+- Portfolio: https://aspabhi31.github.io/abhijeetsinghpawar.github.io/
