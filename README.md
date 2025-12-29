@@ -11,13 +11,13 @@ Experience with KPI dashboards, churn & CLV analysis, and risk analytics
 ## Featured Projects
 
 ### Credit Card Credit Risk Modeling
-🔗 https://github.com/aspabhi31/credit-risk-modeling
+  https://github.com/aspabhi31/credit-risk-project
 
 ### Retail Business Analytics
-🔗 https://github.com/aspabhi31/retail-business-analytics
+  https://github.com/aspabhi31/retail-business-analytics
 
 ### US Debt Tracker Analysis
-🔗 https://github.com/aspabhi31/us-debt-analysis
+  https://github.com/aspabhi31/Us-Debt-Tracker-Analysis
 
 ## Tech Stack
 - SQL (MySQL, PostgreSQL, CTEs, Window Functions)
