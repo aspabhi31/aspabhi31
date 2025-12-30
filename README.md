@@ -6,7 +6,7 @@ I’m a data professional with experience in **analytics, predictive modeling, a
 
 I’m actively seeking **Data Analyst and Data Scientist roles**, with interests in **risk analytics, customer behavior, and data-driven decision-making**.
 
----
+
 
 ##  What I Work On
 - Business & Risk Analytics (Credit Risk, Churn, Customer Segmentation)
@@ -15,7 +15,7 @@ I’m actively seeking **Data Analyst and Data Scientist roles**, with interests
 - Dashboards & KPI Reporting (Power BI)
 - End-to-End Analytics Pipelines
 
----
+
 
 ##  Featured Projects
 
@@ -28,7 +28,7 @@ I’m actively seeking **Data Analyst and Data Scientist roles**, with interests
 
 https://github.com/aspabhi31/credit-risk-project
 
----
+
 
 ###  Retail Business Analytics & Customer Insights  
 **SQL | Python | Power BI**  
@@ -39,7 +39,7 @@ https://github.com/aspabhi31/credit-risk-project
 
  https://github.com/aspabhi31/retail-business-analytics
 
----
+
 
 ###  Predictive Risk Classification – Vehicle Damage Detection  
 **PyTorch | Transfer Learning | Computer Vision**
@@ -49,7 +49,7 @@ https://github.com/aspabhi31/credit-risk-project
 
  https://github.com/aspabhi31/Vehicle-Damage-Detection
 
----
+
 
 ###  Energy Output Prediction (Regression & Forecasting)  
 **Scikit-learn | Time Series Concepts**
@@ -59,7 +59,7 @@ https://github.com/aspabhi31/credit-risk-project
 
  https://github.com/aspabhi31/Energy-Output-Prediction
 
----
+
 
 ##  Tech Stack
 
@@ -77,14 +77,14 @@ https://github.com/aspabhi31/credit-risk-project
 - Advanced Excel (Power Query, Pivot Tables)
 - Workflow Automation & Data Validation
 
----
+
 
 ##  Education
 - **MASc in Computer Engineering** — Memorial University of Newfoundland  
   GPA: **3.81 / 4.0**
 - **B.Tech in Electronics Engineering** — Thapar University
 
----
+
 
 ## Connect With Me
 -  **LinkedIn**: https://www.linkedin.com/in/abhijeet-singh-pawar-482576149/
@@ -92,7 +92,7 @@ https://github.com/aspabhi31/credit-risk-project
 -  **Portfolio**: https://aspabhi31.github.io/abhijeetsinghpawar.github.io/
 -  **Email**: aspabhi31@gmail.com
 
----
+
 
 ### Note
 Some older repositories include **web development work**, reflecting my broader technical background.  
