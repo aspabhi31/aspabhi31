@@ -6,7 +6,7 @@ Focused on **customer analytics, retail insights, and credit risk modeling**.
 
 MASc in Computer Engineering (Canada)  
 Experience with KPI dashboards, churn & CLV analysis, and risk analytics  
-🇨🇦 Open to Data Analyst / BI Analyst roles in Canada
+Open to Data Analyst / BI Analyst roles 
 
 ## Featured Projects
 
