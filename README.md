@@ -4,7 +4,7 @@
 
 I’m a data professional with experience in **analytics, predictive modeling, and business decision support**, backed by a **Master’s degree in Computer Engineering**. I work across the full data lifecycle — from **SQL-based data extraction and EDA** to **machine learning models, dashboards, and actionable insights**.
 
-I’m actively seeking **Data Analyst and Data Scientist roles**, with interests in **risk analytics, customer behavior, and data-driven decision-making**.
+I’m actively seeking **Data Analyst roles**, with interests in **risk analytics, customer behavior, and data-driven decision-making**.
 
 
 
