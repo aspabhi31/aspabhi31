@@ -39,28 +39,6 @@ https://github.com/aspabhi31/credit-risk-project
 
  https://github.com/aspabhi31/retail-business-analytics
 
-
-
-###  Predictive Risk Classification – Vehicle Damage Detection  
-**PyTorch | Transfer Learning | Computer Vision**
-- Developed a **ResNet50-based classifier** across six damage categories
-- Applied data augmentation and hyperparameter optimization
-- Evaluated using confusion matrices and class-level error analysis
-
- https://github.com/aspabhi31/Vehicle-Damage-Detection
-
-
-
-###  Energy Output Prediction (Regression & Forecasting)  
-**Scikit-learn | Time Series Concepts**
-- Built regression-based predictive models on multi-year sensor data
-- Optimized convergence and minimized MSE
-- Demonstrated structured forecasting and evaluation approach
-
- https://github.com/aspabhi31/Energy-Output-Prediction
-
-
-
 ##  Tech Stack
 
 **Programming & Analysis**
