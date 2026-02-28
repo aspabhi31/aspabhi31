@@ -39,6 +39,15 @@ https://github.com/aspabhi31/credit-risk-project
 
  https://github.com/aspabhi31/retail-business-analytics
 
+ ###  Saas Product Analytics  
+**SQL | Power BI**  
+- Built end-to-end SaaS Product Analytics project using MySQL, analyzing funnel conversion, cohort retention, MRR, ARPU, churn (~10%), and LTV (~₹13.1K).
+- Conducted channel-level revenue segmentation, identifying Referral as highest conversion source and Paid Ads as highest ARPU driver.
+- Designed cohort-based retention framework to evaluate user stickiness and long-term revenue sustainability.
+- Delivered data-driven recommendations to optimize acquisition strategy and improve monetization efficiency.
+
+ https://github.com/aspabhi31/retail-business-analytics
+
 ##  Tech Stack
 
 **Programming & Analysis**
