@@ -46,7 +46,7 @@ https://github.com/aspabhi31/credit-risk-project
 - Designed cohort-based retention framework to evaluate user stickiness and long-term revenue sustainability.
 - Delivered data-driven recommendations to optimize acquisition strategy and improve monetization efficiency.
 
- https://github.com/aspabhi31/retail-business-analytics
+ https://github.com/aspabhi31/SaaS-Product-Revenue-Analytics
 
 ##  Tech Stack
 
