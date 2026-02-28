@@ -1,6 +1,6 @@
 #  Hi, I’m Abhijeet Singh Pawar
 
-**Data Analyst | Risk & Business Analytics**
+**Data Analyst | Risk, Product & Business Analytics**
 
 I’m a data professional with experience in **analytics, predictive modeling, and business decision support**, backed by a **Master’s degree in Computer Engineering**. I work across the full data lifecycle — from **SQL-based data extraction and EDA** to **machine learning models, dashboards, and actionable insights**.
 
@@ -9,7 +9,7 @@ I’m actively seeking **Data Analyst roles**, with interests in **risk analytic
 
 
 ##  What I Work On
-- Business & Risk Analytics (Credit Risk, Churn, Customer Segmentation)
+- Business, Product & Risk Analytics (Credit Risk, Churn, Customer Segmentation)
 - SQL & Python-based Data Analysis
 - Predictive Modeling & Machine Learning
 - Dashboards & KPI Reporting (Power BI)
