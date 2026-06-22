@@ -1,87 +1,203 @@
-#  Hi, I’m Abhijeet Singh Pawar
+# Hi, I'm Abhijeet Singh Pawar 
 
-**Data Analyst | Risk, Product & Business Analytics**
+## AI Engineer | Data Scientist | Data Analyst
 
-I’m a data professional with experience in **analytics, predictive modeling, and business decision support**, backed by a **Master’s degree in Computer Engineering**. I work across the full data lifecycle — from **SQL-based data extraction and EDA** to **machine learning models, dashboards, and actionable insights**.
+I am passionate about building intelligent systems that combine **Data Science, Machine Learning, Generative AI, and Agentic AI** to solve real-world problems.
 
-I’m actively seeking **Data Analyst roles**, with interests in **risk analytics, customer behavior, and data-driven decision-making**.
+🎓 Master of Applied Science (MASc) in Computer Engineering, Memorial University of Newfoundland, Canada
 
-
-
-##  What I Work On
-- Business, Product & Risk Analytics (Credit Risk, Churn, Customer Segmentation)
-- SQL & Python-based Data Analysis
-- Predictive Modeling & Machine Learning
-- Dashboards & KPI Reporting (Power BI)
-- End-to-End Analytics Pipelines
+My goal is to build AI systems that automate workflows, enhance decision-making, and create meaningful impact.
 
 
 
-##  Featured Projects
+## About Me
 
-###  Credit Card Credit Risk Modeling & Approval Strategy  
-**Python | Statistics | Risk Analytics**
-- Analyzed ~30K customer records to identify key default risk drivers
-- Built an interpretable **Probability of Default (PD)** model with risk bands
-- Evaluated using **ROC-AUC (~0.70+) and KS (~0.30+)**
-- Designed PD-based approval cutoffs and simulated portfolio-level impact
-
-https://github.com/aspabhi31/credit-risk-project
+- Building AI applications using LLMs, RAG, and Agentic AI
+- Experienced in Data Analytics, Business Intelligence, and Predictive Modeling
+- Passionate about Machine Learning, Deep Learning, and AI Systems
+- Focused on solving business problems using data-driven approaches
+- Currently exploring Multi-Agent Systems, A2A Communication, and MCP
 
 
 
-###  Retail Business Analytics & Customer Insights  
-**SQL | Python | Power BI**  
-- Built an end-to-end SQL analytics pipeline on ~20K transactions
-- Identified top **20% customers contributing ~75% of revenue**
-- Flagged **~5% churn-risk customers** using inactivity-based logic
-- Developed interactive **Power BI dashboards** for KPI tracking
+## Tech Stack
 
- https://github.com/aspabhi31/retail-business-analytics
+### Programming
 
- ###  Saas Product Analytics  
-**SQL | Power BI**  
-- Built end-to-end SaaS Product Analytics project using MySQL, analyzing funnel conversion, cohort retention, MRR, ARPU, churn (~10%), and LTV (~₹13.1K).
-- Conducted channel-level revenue segmentation, identifying Referral as highest conversion source and Paid Ads as highest ARPU driver.
-- Designed cohort-based retention framework to evaluate user stickiness and long-term revenue sustainability.
-- Delivered data-driven recommendations to optimize acquisition strategy and improve monetization efficiency.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
- https://github.com/aspabhi31/SaaS-Product-Revenue-Analytics
+### Data Science & Machine Learning
 
-##  Tech Stack
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 
-**Programming & Analysis**
-- Python (Pandas, NumPy, Matplotlib, Scikit-learn, PyTorch)
-- SQL (Joins, Aggregations, CTEs, Window Functions)
+### Generative AI
 
-**Data Science & Modeling**
-- Regression, Classification, Credit Risk Modeling
-- Feature Engineering, Model Validation
-- NLP (BERT – academic & applied exposure)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-6A5ACD?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6E44FF?style=for-the-badge)
 
-**BI & Automation**
-- Power BI, KPI Dashboards
-- Advanced Excel (Power Query, Pivot Tables)
-- Workflow Automation & Data Validation
+### Data Analytics & Visualization
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 
+### Development Tools
 
-##  Education
-- **MASc in Computer Engineering** — Memorial University of Newfoundland  
-  GPA: **3.81 / 4.0**
-- **B.Tech in Electronics Engineering** — Thapar University
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
 
 
+
+## Areas of Expertise
+
+### Data Analytics
+- SQL Analytics
+- Dashboard Development
+- KPI Reporting
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Business Intelligence
+
+### Machine Learning
+- Regression
+- Classification
+- Feature Engineering
+- Model Evaluation
+- Predictive Analytics
+- Explainable AI (SHAP)
+
+### Generative AI
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- LLM Applications
+- AI Chatbots
+- Semantic Search
+
+### Agentic AI
+- Multi-Agent Systems
+- Agent Orchestration
+- CrewAI
+- LangGraph
+- A2A (Agent-to-Agent Communication)
+- MCP (Model Context Protocol)
+
+
+
+## Featured Projects
+
+### Vehicle Damage Risk Platform
+
+Built an end-to-end insurance intelligence platform using:
+
+- PyTorch
+- XGBoost
+- Scikit-Learn
+- Streamlit
+- SHAP
+
+Features:
+
+- Vehicle Damage Classification
+- Repair Cost Estimation
+- Claim Severity Prediction
+- Fraud Risk Scoring
+- Explainable AI
+
+
+
+### Credit Risk Modeling & Approval Strategy
+
+Developed a machine learning framework to predict customer default risk.
+
+Highlights:
+
+- 30,000+ customer records analyzed
+- Probability of Default (PD) Modeling
+- Risk-Based Approval Strategy
+- ROC-AUC Evaluation
+- Credit Loss Simulation
+
+
+
+### Retail Business Analytics
+
+Built an end-to-end analytics pipeline using SQL, Python, and Power BI.
+
+Highlights:
+
+- Revenue Analysis
+- Customer Segmentation
+- Product Performance Tracking
+- Executive KPI Dashboard
+
+
+## Current Learning Journey
+
+Currently deepening expertise in:
+
+- Agentic AI Systems
+- LangGraph Workflows
+- CrewAI Architectures
+- MCP Ecosystem
+- A2A Communication
+- Advanced RAG
+- AI Engineering
+- Cloud-Native AI Applications
+
+
+## Professional Experience
+
+### Data Analytics & Visualization Consultant
+Vosyn (2025–2026)
+
+- Automated data preprocessing workflows
+- Built machine learning solutions
+- Delivered business intelligence insights
+- Reduced reporting effort by 30%
+
+### Coding Expert
+Outlier (2024–2025)
+
+- Evaluated and optimized Python solutions
+- Improved AI training quality
+- Assisted in LLM development workflows
+
+### Tutor
+Varsity Tutors (2022–2025)
+
+- Mentored students in:
+  - Programming
+  - Mathematics
+  - Physics
+
+---
+
+## GitHub Goals
+
+- Build production-grade AI systems
+- Contribute to open-source AI projects
+- Publish AI and Data Science case studies
+- Share my daily learning journey
+- Develop advanced Agentic AI applications
+
+---
 
 ## Connect With Me
--  **LinkedIn**: https://www.linkedin.com/in/abhijeet-singh-pawar-482576149/
--  **GitHub**: https://github.com/aspabhi31
--  **Portfolio**: https://aspabhi31.github.io/abhijeetsinghpawar.github.io/
--  **Email**: aspabhi31@gmail.com
 
+ LinkedIn: https://www.linkedin.com/in/abhijeet-singh-pawar-482576149
 
+ GitHub: https://github.com/aspabhi31/aspabhi31
 
-### Note
-Some older repositories include **web development work**, reflecting my broader technical background.  
-My **current focus** is on **data analytics, data science, and risk-focused problem solving**.
+ Portfolio: https://aspabhi31.github.io/abhijeetsinghpawar.github.io/
 
+ Email: aspabhi31@gmail.com
